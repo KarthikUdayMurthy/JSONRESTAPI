@@ -8,18 +8,21 @@
       "available":true
     },
     {
+      "id":2,
       "name":"Product B",
       "price":3.56,
       "image":"prodB.jpg",
       "available":false
     },
     {
+      "id":3,
       "name":"Product C",
       "price":1.2,
       "image":"prodC.jpg",
       "available":true
     },
     {
+      "id":4,
       "name":"Product D",
       "price":4.9,
       "image":"prodD.jpg",
