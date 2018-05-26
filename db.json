@@ -1,0 +1,7 @@
+{
+"products" : [{name:'Product A', price:2, image:'prodA.jpg', available:true}
+		,{name:'Product B', price:3.56, image:'prodB.jpg', available:false}
+		,{name:'Product C', price:1.2, image:'prodC.jpg', available:true}
+		,{name:'Product D', price:4.9, image:'prodD.jpg', available:true}
+	];
+}
