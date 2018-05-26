@@ -24,5 +24,8 @@
 			"image":"prodD.jpg",
 			"available":true
 		}
-	]
+	],
+  "profile": {
+    "name": "typicode"
+  }
 }
