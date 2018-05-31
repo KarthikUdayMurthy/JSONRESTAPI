@@ -2,28 +2,28 @@
   "products": [
     {
       "id":1,
-      "name":"Product A",
+      "name":"Tech Circuit",
       "price":2,
       "image":"prodA.jpg",
       "available":true
     },
     {
       "id":2,
-      "name":"Product B",
+      "name":"Earth & Moon",
       "price":3.56,
       "image":"prodB.jpg",
       "available":false
     },
     {
       "id":3,
-      "name":"Product C",
+      "name":"Dual Galaxy",
       "price":1.2,
       "image":"prodC.jpg",
       "available":true
     },
     {
       "id":4,
-      "name":"Product D",
+      "name":"Jupite Nebula",
       "price":4.9,
       "image":"prodD.jpg",
       "available":true
