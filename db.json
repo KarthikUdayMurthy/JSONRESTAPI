@@ -5,28 +5,36 @@
       "name":"Tech Circuit",
       "price":2,
       "image":"https://image.ibb.co/kqCp0y/prodA.jpg",
-      "available":true
+      "available":true,
+      "inCart":false,
+      "notify":false
     },
     {
       "id":2,
       "name":"Earth & Moon",
       "price":3.56,
       "image":"https://image.ibb.co/hsxNLy/prodB.jpg",
-      "available":false
+      "available":false,
+      "inCart":false,
+      "notify":false
     },
     {
       "id":3,
       "name":"Dual Galaxy",
       "price":1.2,
       "image":"https://image.ibb.co/ceyjYJ/prodC.jpg",
-      "available":true
+      "available":true,
+      "inCart":false,
+      "notify":false
     },
     {
       "id":4,
       "name":"Jupiter Nebula",
       "price":4.9,
       "image":"https://image.ibb.co/kzg4YJ/prodD.jpg",
-      "available":true
+      "available":true,
+      "inCart":false,
+      "notify":false
     }
   ],
   "profile": {
