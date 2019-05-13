@@ -133,16 +133,16 @@
     },
     "fileList": {
       "uploaded": [
-        "test_file5.xlsx",
-        "test_file6.xlsx",
-        "test_file7.xlsx",
-        "test_file8.xlsx"
+        "test_file5a.xlsx - test_file5b.xlsx",
+        "test_file6a.xlsx - test_file6b.xlsx",
+        "test_file7a.xlsx - test_file7b.xlsx",
+        "test_file8a.xlsx - test_file8b.xlsx"
       ],
       "analysed": [
-        "test_file1.xlsx",
-        "test_file2.xlsx",
-        "test_file3.xlsx",
-        "test_file4.xlsx"
+        "test_file1a.xlsx - test_file1b.xlsx",
+        "test_file2a.xlsx - test_file2b.xlsx",
+        "test_file3a.xlsx - test_file3b.xlsx",
+        "test_file4a.xlsx - test_file4b.xlsx"
       ]
     }
   },
