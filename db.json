@@ -144,7 +144,7 @@
         "test_file4a.xlsx - test_file4b.xlsx"
       ]
     },
-    "analysisResult": [{
+    "fullFile": [{
         "key": "Employer Taxes",
         "value1": "516,276.33",
         "row1": 33,
@@ -180,6 +180,287 @@
         "row1": 183,
         "col1": "J",
         "value2": "376,332.41",
+        "row2": 307,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "SDI Employer Liability",
+        "value1": "559.91",
+        "row1": 181,
+        "col1": "J",
+        "value2": "5.16",
+        "row2": 305,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "SUI Employer Liability",
+        "value1": "9,367.85",
+        "row1": 182,
+        "col1": "J",
+        "value2": "9,367.85",
+        "row2": 306,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Medicare Employer Liability",
+        "value1": "127,141.23",
+        "row1": 180,
+        "col1": "J",
+        "value2": "70,003.95",
+        "row2": 304,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Employee Tax Deductions",
+        "value1": "2,064,321.60",
+        "row1": 20,
+        "col1": "J",
+        "value2": "1,195,612.43",
+        "row2": 24,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Pretax Deductions",
+        "value1": "1,030,977.01",
+        "row1": 16,
+        "col1": "J",
+        "value2": "478,622.07",
+        "row2": 20,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Deductions",
+        "value1": "1,456,208.97",
+        "row1": 17,
+        "col1": "J",
+        "value2": "715,241.80",
+        "row2": 21,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Involuntary Deductions",
+        "value1": "15,615.75",
+        "row1": 14,
+        "col1": "J",
+        "value2": "28,689.00",
+        "row2": 18,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Tax Deductions",
+        "value1": "2,064,321.60",
+        "row1": 21,
+        "col1": "J",
+        "value2": "1,195,612.43",
+        "row2": 25,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Voluntary Deductions",
+        "value1": "409,616.21",
+        "row1": 15,
+        "col1": "J",
+        "value2": "207,930.73",
+        "row2": 19,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Hours",
+        "value1": "844,569.58",
+        "row1": 38,
+        "col1": "J",
+        "value2": "711,156.63",
+        "row2": 42,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "SUI Employee Withheld",
+        "value1": "274.20",
+        "row1": 119,
+        "col1": "J",
+        "value2": "-8.45",
+        "row2": 246,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "SDI Employee Withheld",
+        "value1": "663.78",
+        "row1": 117,
+        "col1": "J",
+        "value2": "9.80",
+        "row2": 244,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Medicare Employee Withheld",
+        "value1": "132,697.61",
+        "row1": 116,
+        "col1": "J",
+        "value2": "71,226.97",
+        "row2": 243,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Family Leave Insurance Employee Withheld",
+        "value1": "45.95",
+        "row1": 114,
+        "col1": "J",
+        "value2": "4.64",
+        "row2": 242,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Social Security Employee Withheld",
+        "value1": "376,331.43",
+        "row1": 121,
+        "col1": "J",
+        "value2": "226,317.65",
+        "row2": 248,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Earnings",
+        "value1": "9,083,263.46",
+        "row1": 6,
+        "col1": "J",
+        "value2": "4,974,187.44",
+        "row2": 10,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Imputed Earnings",
+        "value1": "35,973.53",
+        "row1": 3,
+        "col1": "J",
+        "value2": "23,467.91",
+        "row2": 7,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Gross Earnings",
+        "value1": "5,564,708.60",
+        "row1": 48,
+        "col1": "J",
+        "value2": "3,049,374.34",
+        "row2": 52,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Standard Earnings",
+        "value1": "844,569.58",
+        "row1": 37,
+        "col1": "J",
+        "value2": "711,156.63",
+        "row2": 41,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Gross Earnings",
+        "value1": "9,083,263.46",
+        "row1": 48,
+        "col1": "B",
+        "value2": "3,049,374.34",
+        "row2": 52,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Supplemental Earnings",
+        "value1": "92,982.51",
+        "row1": 5,
+        "col1": "J",
+        "value2": "87,838.95",
+        "row2": 9,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Standard Earnings",
+        "value1": "8,954,307.42",
+        "row1": 4,
+        "col1": "J",
+        "value2": "711,156.63",
+        "row2": 41,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Nonpayroll Payments",
+        "value1": "37,949.24",
+        "row1": 27,
+        "col1": "J",
+        "value2": "10,742.60",
+        "row2": 31,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Nonpayroll Payment",
+        "value1": "37,949.24",
+        "row1": 26,
+        "col1": "J",
+        "value2": "10,742.60",
+        "row2": 30,
+        "col2": "J",
+        "areDifferentValue": true
+      }
+    ],
+    "analysisResult": [{
+        "key": "Employer Taxes",
+        "value1": "516,276.33",
+        "row1": 33,
+        "col1": "J",
+        "value2": "296,577.79",
+        "row2": 37,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Employer Contributions",
+        "value1": "1,628,323.87",
+        "row1": 34,
+        "col1": "J",
+        "value2": "903,074.12",
+        "row2": 38,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Employer Liabilities",
+        "value1": "1,112,047.54",
+        "row1": 32,
+        "col1": "J",
+        "value2": "606,496.33",
+        "row2": 36,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Social Security Employer Liability",
+        "value1": "376,332.41",
+        "row1": 183,
+        "col1": "J",
+        "value2": "226,317.65",
         "row2": 307,
         "col2": "J",
         "areDifferentValue": true
