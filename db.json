@@ -131,19 +131,42 @@
             "username": "Karthik"
         },
         "fileList": {
-            "uploaded": [
-               {"id": "1", "fileName": "test_file1.xlsx", "payroll": "Jan 2019", "Type": "type 1"},
-               {"id": "2", "fileName": "test_file2.xlsx", "payroll": "Feb 2019", "Type": "type 2"},
-               {"id": "3", "fileName": "test_file3.xlsx", "payroll": "Mar 2019", "Type": "type 3"},
-               {"id": "4", "fileName": "test_file4.xlsx", "payroll": "Apr 2019", "Type": "type 4"},
-               {"id": "5", "fileName": "test_file5.xlsx", "payroll": "May 2019", "Type": "type 1"},
-               {"id": "6", "fileName": "test_file6.xlsx", "payroll": "Jun 2019", "Type": "type 2"},
-               {"id": "7", "fileName": "test_file7.xlsx", "payroll": "Jul 2019", "Type": "type 3"},
-               {"id": "8", "fileName": "test_file8.xlsx", "payroll": "Aug 2019", "Type": "type 4"},
-               {"id": "9", "fileName": "test_file9.xlsx", "payroll": "Sep 2019", "Type": "type 1"},
-               {"id": "10", "fileName": "test_file10.xlsx", "payroll": "Oct 2019", "Type": "type 2"},
-               {"id": "11", "fileName": "test_file11.xlsx", "payroll": "Nov 2019", "Type": "type 3"},
-               {"id": "12", "fileName": "test_file12.xlsx", "payroll": "Dec 2019", "Type": "type 4"}
+            "uploaded": [{
+                    "id": "1",
+                    "fileName": "test_file1.xlsx",
+                    "payroll": "Jan 2019",
+                    "Type": "type 1"
+                },
+                {
+                    "id": "2",
+                    "fileName": "test_file2.xlsx",
+                    "payroll": "Feb 2019",
+                    "Type": "type 2"
+                },
+                {
+                    "id": "3",
+                    "fileName": "test_file3.xlsx",
+                    "payroll": "Mar 2019",
+                    "Type": "type 3"
+                },
+                {
+                    "id": "4",
+                    "fileName": "test_file4.xlsx",
+                    "payroll": "Apr 2019",
+                    "Type": "type 4"
+                },
+                {
+                    "id": "5",
+                    "fileName": "test_file5.xlsx",
+                    "payroll": "May 2019",
+                    "Type": "type 1"
+                },
+                {
+                    "id": "6",
+                    "fileName": "test_file6.xlsx",
+                    "payroll": "Jun 2019",
+                    "Type": "type 2"
+                }
             ],
             "analysed": [
                 "test_file1a.xlsx - test_file1b.xlsx",
