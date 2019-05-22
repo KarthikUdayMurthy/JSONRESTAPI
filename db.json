@@ -1,324 +1,328 @@
 {
-    "products": [{
-            "id": 1,
-            "name": "Hill Road",
-            "price": 2,
-            "image": "https://i.imgur.com/bEcwFPa.jpg",
-            "available": true
-        },
-        {
-            "id": 2,
-            "name": "Green Forest",
-            "price": 3.56,
-            "image": "https://i.imgur.com/p0QY6SG.jpg",
-            "available": false
-        },
-        {
-            "id": 3,
-            "name": "Lake Road",
-            "price": 1.2,
-            "image": "https://i.imgur.com/qJ7CNBY.jpg",
-            "available": true
-        },
-        {
-            "id": 4,
-            "name": "Sky Grass",
-            "price": 4.9,
-            "image": "https://i.imgur.com/Pu87SoH.jpg",
-            "available": true
-        },
-        {
-            "id": 5,
-            "name": "Air Craft",
-            "price": 3.6,
-            "image": "https://i.imgur.com/hwhHpsi.jpg",
-            "available": true
-        },
-        {
-            "id": 6,
-            "name": "Sea Ramp",
-            "price": 4.25,
-            "image": "https://i.imgur.com/aQfPIUX.jpg",
-            "available": true
-        },
-        {
-            "id": 7,
-            "name": "Earth Moon",
-            "price": 2.82,
-            "image": "https://i.imgur.com/sxIYhAL.jpg",
-            "available": true
-        },
-        {
-            "id": 8,
-            "name": "Polar Glacier",
-            "price": 5.69,
-            "image": "https://i.imgur.com/55PSWpE.jpg",
-            "available": true
-        },
-        {
-            "id": 9,
-            "name": "Park Bench",
-            "price": 2.60,
-            "image": "https://i.imgur.com/LLkv4m4.jpg",
-            "available": true
-        },
-        {
-            "id": 10,
-            "name": "Jupiter Nebula",
-            "price": 3.47,
-            "image": "https://i.imgur.com/CH5R8vb.jpg",
-            "available": true
-        },
-        {
-            "id": 11,
-            "name": "Moon Road",
-            "price": 2.2,
-            "image": "https://i.imgur.com/OtoHsX1.jpg",
-            "available": true
-        },
-        {
-            "id": 12,
-            "name": "Snow Ramp",
-            "price": 1.6,
-            "image": "https://i.imgur.com/Cc5Rl4P.jpg",
-            "available": true
-        },
-        {
-            "id": 13,
-            "name": "Blue Ice",
-            "price": 3.92,
-            "image": "https://i.imgur.com/NJ0Dzmz.jpg",
-            "available": false
-        },
-        {
-            "id": 14,
-            "name": "Mystic Curve",
-            "price": 2.5,
-            "image": "https://i.imgur.com/IiajbJH.jpg",
-            "available": true
-        },
-        {
-            "id": 15,
-            "name": "Tech Circuit",
-            "price": 1.6,
-            "image": "https://i.imgur.com/qHp8gz5.jpg",
-            "available": true
-        },
-        {
-            "id": 16,
-            "name": "Dual Galaxy",
-            "price": 4.72,
-            "image": "https://i.imgur.com/ArvHfjZ.jpg",
-            "available": true
-        },
-        {
-            "id": 17,
-            "name": "Milky Way",
-            "price": 1.25,
-            "image": "https://i.imgur.com/WG7PBOu.jpg",
-            "available": true
-        },
-        {
-            "id": 18,
-            "name": "Super Car",
-            "price": 2.9,
-            "image": "https://i.imgur.com/WAXO4Mq.jpg",
-            "available": true
-        }
-    ],
-    "xlCompare": {
-        "login": {
-            "username": "Karthik"
-        },
-        "fileList": {
-            "uploaded": [{
-                    "id": "1",
-                    "fileName": "test_file1.xlsx",
-                    "payroll": "Jan 2019",
-                    "Type": "type 1"
-                },
-                {
-                    "id": "2",
-                    "fileName": "test_file2.xlsx",
-                    "payroll": "Feb 2019",
-                    "Type": "type 2"
-                },
-                {
-                    "id": "3",
-                    "fileName": "test_file3.xlsx",
-                    "payroll": "Mar 2019",
-                    "Type": "type 3"
-                },
-                {
-                    "id": "4",
-                    "fileName": "test_file4.xlsx",
-                    "payroll": "Apr 2019",
-                    "Type": "type 4"
-                },
-                {
-                    "id": "5",
-                    "fileName": "test_file5.xlsx",
-                    "payroll": "May 2019",
-                    "Type": "type 1"
-                },
-                {
-                    "id": "6",
-                    "fileName": "test_file6.xlsx",
-                    "payroll": "Jun 2019",
-                    "Type": "type 2"
-                }
-            ],
-            "analysed": [
-                "test_file1a.xlsx - test_file1b.xlsx",
-                "test_file2a.xlsx - test_file2b.xlsx",
-                "test_file3a.xlsx - test_file3b.xlsx",
-                "test_file4a.xlsx - test_file4b.xlsx"
-            ]
-        },
-        "analysisResult": [{
-                "key": "Employer Taxes",
-                "value1": "516,276.33",
-                "row1": 33,
-                "col1": "J",
-                "value2": "296,577.79",
-                "row2": 37,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Total Employer Contributions",
-                "value1": "1,628,323.87",
-                "row1": 34,
-                "col1": "J",
-                "value2": "903,074.12",
-                "row2": 38,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Employer Liabilities",
-                "value1": "1,112,047.54",
-                "row1": 32,
-                "col1": "J",
-                "value2": "606,496.33",
-                "row2": 36,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Social Security Employer Liability",
-                "value1": "376,332.41",
-                "row1": 183,
-                "col1": "J",
-                "value2": "226,317.65",
-                "row2": 307,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "SDI Employer Liability",
-                "value1": "559.91",
-                "row1": 181,
-                "col1": "J",
-                "value2": "5.16",
-                "row2": 305,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "SUI Employer Liability",
-                "value1": "9,367.85",
-                "row1": 182,
-                "col1": "J",
-                "value2": "190.73",
-                "row2": 306,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Medicare Employer Liability",
-                "value1": "127,141.23",
-                "row1": 180,
-                "col1": "J",
-                "value2": "70,003.95",
-                "row2": 304,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Employee Tax Deductions",
-                "value1": "2,064,321.60",
-                "row1": 20,
-                "col1": "J",
-                "value2": "1,195,612.43",
-                "row2": 24,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Pretax Deductions",
-                "value1": "1,030,977.01",
-                "row1": 16,
-                "col1": "J",
-                "value2": "478,622.07",
-                "row2": 20,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Total Deductions",
-                "value1": "1,456,208.97",
-                "row1": 17,
-                "col1": "J",
-                "value2": "715,241.80",
-                "row2": 21,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Involuntary Deductions",
-                "value1": "15,615.75",
-                "row1": 14,
-                "col1": "J",
-                "value2": "28,689.00",
-                "row2": 18,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Total Tax Deductions",
-                "value1": "2,064,321.60",
-                "row1": 21,
-                "col1": "J",
-                "value2": "1,195,612.43",
-                "row2": 25,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Voluntary Deductions",
-                "value1": "409,616.21",
-                "row1": 15,
-                "col1": "J",
-                "value2": "207,930.73",
-                "row2": 19,
-                "col2": "J",
-                "areDifferentValue": true
-            },
-            {
-                "key": "Total Hours",
-                "value1": "844,569.58",
-                "row1": 38,
-                "col1": "J",
-                "value2": "711,156.63",
-                "row2": 42,
-                "col2": "J",
-                "areDifferentValue": true
-            }
-        ]
-
+  "products": [{
+      "id": 1,
+      "name": "Hill Road",
+      "price": 2,
+      "image": "https://i.imgur.com/bEcwFPa.jpg",
+      "available": true
     },
-    "profile": {
-        "name": "typicode"
+    {
+      "id": 2,
+      "name": "Green Forest",
+      "price": 3.56,
+      "image": "https://i.imgur.com/p0QY6SG.jpg",
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Lake Road",
+      "price": 1.2,
+      "image": "https://i.imgur.com/qJ7CNBY.jpg",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Sky Grass",
+      "price": 4.9,
+      "image": "https://i.imgur.com/Pu87SoH.jpg",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Air Craft",
+      "price": 3.6,
+      "image": "https://i.imgur.com/hwhHpsi.jpg",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Sea Ramp",
+      "price": 4.25,
+      "image": "https://i.imgur.com/aQfPIUX.jpg",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Earth Moon",
+      "price": 2.82,
+      "image": "https://i.imgur.com/sxIYhAL.jpg",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Polar Glacier",
+      "price": 5.69,
+      "image": "https://i.imgur.com/55PSWpE.jpg",
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Park Bench",
+      "price": 2.60,
+      "image": "https://i.imgur.com/LLkv4m4.jpg",
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Jupiter Nebula",
+      "price": 3.47,
+      "image": "https://i.imgur.com/CH5R8vb.jpg",
+      "available": true
+    },
+    {
+      "id": 11,
+      "name": "Moon Road",
+      "price": 2.2,
+      "image": "https://i.imgur.com/OtoHsX1.jpg",
+      "available": true
+    },
+    {
+      "id": 12,
+      "name": "Snow Ramp",
+      "price": 1.6,
+      "image": "https://i.imgur.com/Cc5Rl4P.jpg",
+      "available": true
+    },
+    {
+      "id": 13,
+      "name": "Blue Ice",
+      "price": 3.92,
+      "image": "https://i.imgur.com/NJ0Dzmz.jpg",
+      "available": false
+    },
+    {
+      "id": 14,
+      "name": "Mystic Curve",
+      "price": 2.5,
+      "image": "https://i.imgur.com/IiajbJH.jpg",
+      "available": true
+    },
+    {
+      "id": 15,
+      "name": "Tech Circuit",
+      "price": 1.6,
+      "image": "https://i.imgur.com/qHp8gz5.jpg",
+      "available": true
+    },
+    {
+      "id": 16,
+      "name": "Dual Galaxy",
+      "price": 4.72,
+      "image": "https://i.imgur.com/ArvHfjZ.jpg",
+      "available": true
+    },
+    {
+      "id": 17,
+      "name": "Milky Way",
+      "price": 1.25,
+      "image": "https://i.imgur.com/WG7PBOu.jpg",
+      "available": true
+    },
+    {
+      "id": 18,
+      "name": "Super Car",
+      "price": 2.9,
+      "image": "https://i.imgur.com/WAXO4Mq.jpg",
+      "available": true
     }
+  ],
+  "xlCompare": {
+    "login": {
+      "username": "Karthik"
+    },
+    "fileList": {
+      "uploaded": [{
+          "id": "1",
+          "fileName": "test_file1.xlsx",
+          "payroll": "Jan 2019",
+          "Type": "type 1"
+        },
+        {
+          "id": "2",
+          "fileName": "test_file2.xlsx",
+          "payroll": "Feb 2019",
+          "Type": "type 2"
+        },
+        {
+          "id": "3",
+          "fileName": "test_file3.xlsx",
+          "payroll": "Mar 2019",
+          "Type": "type 3"
+        },
+        {
+          "id": "4",
+          "fileName": "test_file4.xlsx",
+          "payroll": "Apr 2019",
+          "Type": "type 4"
+        },
+        {
+          "id": "5",
+          "fileName": "test_file5.xlsx",
+          "payroll": "May 2019",
+          "Type": "type 1"
+        },
+        {
+          "id": "6",
+          "fileName": "test_file6.xlsx",
+          "payroll": "Jun 2019",
+          "Type": "type 2"
+        }
+      ],
+      "analysed": [
+        "test_file1a.xlsx - test_file1b.xlsx",
+        "test_file2a.xlsx - test_file2b.xlsx",
+        "test_file3a.xlsx - test_file3b.xlsx",
+        "test_file4a.xlsx - test_file4b.xlsx"
+      ]
+    },
+    "analysisResult": [{
+        "key": "Employer Taxes",
+        "value1": "516,276.33",
+        "row1": 33,
+        "col1": "J",
+        "value2": "296,577.79",
+        "row2": 37,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Employer Contributions",
+        "value1": "1,628,323.87",
+        "row1": 34,
+        "col1": "J",
+        "value2": "903,074.12",
+        "row2": 38,
+        "col2": "J",
+        "areDifferentValue": true,
+        "secondLevel": [{
+          "key": "Total Employer Contributions",
+          "difference": "7,25,249.75"
+        }]
+      },
+      {
+        "key": "Employer Liabilities",
+        "value1": "1,112,047.54",
+        "row1": 32,
+        "col1": "J",
+        "value2": "606,496.33",
+        "row2": 36,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Social Security Employer Liability",
+        "value1": "376,332.41",
+        "row1": 183,
+        "col1": "J",
+        "value2": "226,317.65",
+        "row2": 307,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "SDI Employer Liability",
+        "value1": "559.91",
+        "row1": 181,
+        "col1": "J",
+        "value2": "5.16",
+        "row2": 305,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "SUI Employer Liability",
+        "value1": "9,367.85",
+        "row1": 182,
+        "col1": "J",
+        "value2": "190.73",
+        "row2": 306,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Medicare Employer Liability",
+        "value1": "127,141.23",
+        "row1": 180,
+        "col1": "J",
+        "value2": "70,003.95",
+        "row2": 304,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Employee Tax Deductions",
+        "value1": "2,064,321.60",
+        "row1": 20,
+        "col1": "J",
+        "value2": "1,195,612.43",
+        "row2": 24,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Pretax Deductions",
+        "value1": "1,030,977.01",
+        "row1": 16,
+        "col1": "J",
+        "value2": "478,622.07",
+        "row2": 20,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Deductions",
+        "value1": "1,456,208.97",
+        "row1": 17,
+        "col1": "J",
+        "value2": "715,241.80",
+        "row2": 21,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Involuntary Deductions",
+        "value1": "15,615.75",
+        "row1": 14,
+        "col1": "J",
+        "value2": "28,689.00",
+        "row2": 18,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Tax Deductions",
+        "value1": "2,064,321.60",
+        "row1": 21,
+        "col1": "J",
+        "value2": "1,195,612.43",
+        "row2": 25,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Voluntary Deductions",
+        "value1": "409,616.21",
+        "row1": 15,
+        "col1": "J",
+        "value2": "207,930.73",
+        "row2": 19,
+        "col2": "J",
+        "areDifferentValue": true
+      },
+      {
+        "key": "Total Hours",
+        "value1": "844,569.58",
+        "row1": 38,
+        "col1": "J",
+        "value2": "711,156.63",
+        "row2": 42,
+        "col2": "J",
+        "areDifferentValue": true
+      }
+    ]
+
+  },
+  "profile": {
+    "name": "typicode"
+  }
 }
